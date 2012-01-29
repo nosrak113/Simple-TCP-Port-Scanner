@@ -1,0 +1,5 @@
+This Simple Port Scanner was made for Georgia Tech ECE 4112
+
+ussage
+gcc cport.c
+./a.out [IP] [Start IP] [End IP]
